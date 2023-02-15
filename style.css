@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #03001C;
+}
+#header{
+    background-color: #03001C;
+    width: auto;
+    height: 90px;
+}
+#logo{
+    width: fit-content;
+    height: 38px;
+}
+
+#nav_content{
+    width: 400px;
+    height: 20px;
+}
+#signup{
+    background-color: #391E8A;
+    width: 120px;
+    height: 36px;
+}
+
+#psp{
+    width: 600px;
+    height: 600px;
+}
+
+#details{
+    width: 400;
+    height: 254px;
+}
+
+h1{
+    font-size: 76px;
+    color: #C9BCF1;
+    line-height: 88px;
+}
+
+.button_color{
+    background-color: #391E8A;
+}
+
